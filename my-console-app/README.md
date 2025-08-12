@@ -1,33 +1,40 @@
-# My Console App
+# MyConsoleApp
 
-This is a simple C# console application designed to demonstrate the basic structure and functionality of a console app.
+A simple C# console application demonstrating basic array operations and algorithms.
 
-## Overview
+## Features
 
-The application serves as an introductory project for understanding how to create and run a C# console application. It includes essential components such as the `Program.cs` file, which contains the entry point of the application.
+- Find the smallest element in an array
+- Print elements in alternate order
+- Search for a specific element in an array
+- Check if an array is a palindrome
+- Calculate the product of min/max elements from two arrays
+- Efficiently sum prime numbers in a range using the Sieve of Eratosthenes
 
-## Files
+## Getting Started
 
-- **Program.cs**: The main entry point of the application where execution begins.
-- **my-console-app.csproj**: The project file that contains metadata about the project, including dependencies and build settings.
-- **README.md**: This documentation file that provides an overview and instructions for the project.
+1. **Update Target Framework (if needed):**  
+   Edit `my-console-app.csproj` and set `<TargetFramework>net8.0</TargetFramework>` for best compatibility.
 
-## Instructions for Building and Running
-
-1. Ensure you have the .NET SDK installed on your machine.
-2. Open a terminal and navigate to the project directory:
-   ```
+2. **Build and Run:**
+   ```sh
    cd my-console-app
-   ```
-3. Build the project using the following command:
-   ```
    dotnet build
-   ```
-4. Run the application with:
-   ```
    dotnet run
    ```
 
-## Additional Information
+## Example Output
 
-Feel free to modify the code in `Program.cs` to explore different functionalities and enhance your understanding of C# console applications.
+```
+Hello, World!
+Sum of prime numbers between 10 and 20: 60
+```
+
+## Requirements
+
+- .NET 8.0 SDK (recommended)  
+  Install from: https://dotnet.microsoft.com/download
+
+---
+
+Feel free to explore and extend the code for
