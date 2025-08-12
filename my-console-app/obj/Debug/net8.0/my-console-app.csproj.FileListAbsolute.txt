@@ -1,0 +1,15 @@
+/workspaces/array/my-console-app/bin/Debug/net8.0/my-console-app
+/workspaces/array/my-console-app/bin/Debug/net8.0/my-console-app.deps.json
+/workspaces/array/my-console-app/bin/Debug/net8.0/my-console-app.runtimeconfig.json
+/workspaces/array/my-console-app/bin/Debug/net8.0/my-console-app.dll
+/workspaces/array/my-console-app/bin/Debug/net8.0/my-console-app.pdb
+/workspaces/array/my-console-app/obj/Debug/net8.0/my-console-app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/array/my-console-app/obj/Debug/net8.0/my-console-app.AssemblyInfoInputs.cache
+/workspaces/array/my-console-app/obj/Debug/net8.0/my-console-app.AssemblyInfo.cs
+/workspaces/array/my-console-app/obj/Debug/net8.0/my-console-app.csproj.CoreCompileInputs.cache
+/workspaces/array/my-console-app/obj/Debug/net8.0/my-console-app.sourcelink.json
+/workspaces/array/my-console-app/obj/Debug/net8.0/my-console-app.dll
+/workspaces/array/my-console-app/obj/Debug/net8.0/refint/my-console-app.dll
+/workspaces/array/my-console-app/obj/Debug/net8.0/my-console-app.pdb
+/workspaces/array/my-console-app/obj/Debug/net8.0/my-console-app.genruntimeconfig.cache
+/workspaces/array/my-console-app/obj/Debug/net8.0/ref/my-console-app.dll
